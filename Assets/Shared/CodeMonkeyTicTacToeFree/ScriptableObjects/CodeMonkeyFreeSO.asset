@@ -14,25 +14,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.00
   subtype: tictactoengofree
-  lastShownTimestamp: 1783194279
+  lastShownTimestamp: 1785008377
   lastUpdateResponse:
     version: 1.00
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1783194279
+  checkedLastUpdateTimestamp: 1785008377
   lastQOTDResponse:
-    questionId: 318
+    questionId: 325
     questionText: 'Is this valid code?
 
-      <p>Vector3? targetPosition = new Vector3(10,
-      0, 0);</p>
-
-      <p>Vector3 moveToPosition = targetPosition;</p>'
+      <p>Color? myColor = null;</p>'
     answerA: Yes
-    answerB: No
+    answerB: No, myColor is a struct and cannot be null
     answerC: 
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1783194279
+  lastQotdTimestamp: 1785008377
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/summer2025CodeMonkeyBundle.png
     topText: Get 80% OFF on ALL my Courses and Games!!!
@@ -40,19 +37,19 @@ MonoBehaviour:
     bottomText: DONT MISS the latest important trends, sign up for my FREE Weekly
       Newsletter!
     bottomLink: gamedevreport
-  lastDynamicHeaderTimestamp: 1783194279
+  lastDynamicHeaderTimestamp: 1785008377
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1783194279
+  websiteLatestMessageTimestamp: 1785008377
   websiteLatestVideos:
     videos:
-    - youTubeId: ngQCio7raFY
-      title: Apparently Indie devs are NOT dead?
-    - youTubeId: C9iHZDlnXdk
-      title: BEST NEW Visual Assets to INSPIRE YOU! (APRIL 2026)
-    - youTubeId: v2E2OkAYjs4
-      title: How to make $50 MILLION Indie Game (MECCHA CHAMELEON)
-    - youTubeId: YMZSa1CzQGk
-      title: TOP 10 NEW Systems and Tools JUNE 2026! | Unity Asset Store
-  websiteLatestVideosTimestamp: 1783194279
+    - youTubeId: _0Lp-iXEhfU
+      title: Join my Game Dev Practice Lab for FREE!
+    - youTubeId: 2dyD9yWWtCU
+      title: Unity 7 is RE-ANNOUNCED!
+    - youTubeId: -qpKrATW4wM
+      title: TOP 10 FREE NEW Assets JULY 2026!
+    - youTubeId: IQlMciGDMTY
+      title: This method helps you find Game Ideas that make MILLIONS!
+  websiteLatestVideosTimestamp: 1785008377
